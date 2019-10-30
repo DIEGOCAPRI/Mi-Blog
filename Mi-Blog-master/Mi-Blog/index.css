@@ -1,0 +1,42 @@
+h1 {font-family: 'Liu Jian Mao Cao', cursive;
+background-color: darkgrey;
+ color: darkgreen;
+ position: fixed;
+ left: 8em
+}
+
+ body {
+     background-color: aqua;
+     max-width: 600px;
+ }
+
+ #links {
+     color: darkgreen;
+     position: relative;
+     left: 8em
+    }
+
+    #detLink {
+
+        position: relative;
+        right: 8em;
+    }
+
+    #detLink1 {
+
+        position: relative;
+        right: 4em;
+       
+    }
+
+    #detLink2 {
+
+        position: relative;
+        right: 0em;
+    }
+
+    #imagen {
+float: right;
+
+
+    }
