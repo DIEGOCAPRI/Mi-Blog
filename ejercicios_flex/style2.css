@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+     
+    
+    }
+    
+    .item {
+    
+    width: 500px;
+    height: 20px;
+    color: white;
+    background-color: rgb(16, 152, 243);
+    padding: 30px;
+    margin-bottom: 10px;
+    align-items: center;
+    
+    }

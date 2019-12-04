@@ -1,0 +1,22 @@
+
+
+.container {
+display: flex;
+flex-flow: row center;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: space-around;
+
+}
+
+.item {
+border: 2px solid black;
+
+width: 250px;
+height: 250px;
+color: black;
+background-color: orange;
+padding: 30px;
+margin-bottom: 10px;
+align-items: center;
+}
